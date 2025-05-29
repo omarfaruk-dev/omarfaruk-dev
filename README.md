@@ -2,7 +2,7 @@
   <!-- You can generate a pixelated "MAMUN" image from sites like fontmeme.com and use it here, 
        or use a typing SVG. The video has a more complex animation.
        This typing SVG is a common alternative: -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00FF00¢er=true&vCenter=true&width=435&lines=MAMUN" alt="Typing SVG - MAMUN" /></a>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+!+I+am+Omar;Frontend+Developer)](https://git.io/typing-svg)
   <!-- Or, if you create a static pixelated image for "MAMUN" (e.g., mamun-pixel.png in your repo):
   <img src="./mamun-pixel.png" alt="MAMUN Pixel Art" width="400"> 
   Adjust width as needed. The animation in the video is more complex. -->
