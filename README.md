@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=30&lines=A+passionate+Front-end+Developer;MERN+Stack+Developer;Learning+NextJS" alt="Typing SVG" /></a>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk-dev" alt="omarfaruk-dev" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&height=30&lines=A+passionate+Front-end+Developer;MERN+Stack+Developer;Learning+NextJS" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on **ProFast (A Parcel Management Application)**
 
@@ -9,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omarfaruk-dev](https://github.com/omarfaruk-dev)
 
-- 📫 How to reach me **omarfaruk.dev@gmail.com**
-
 - 📄 Know about my experiences [https://github.com/omarfaruk-dev](https://github.com/omarfaruk-dev)
+
+- 📫 How to reach me **omarfaruk.dev@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +20,8 @@
 <a href="https://codepen.io/omarfaruk-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="omarfaruk-dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dev-omar-faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-omar-faruk" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk-dev" alt="omarfaruk-dev" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarfaruk-dev&show_icons=true&locale=en&layout=compact" alt="omarfaruk-dev" /></p>
 
