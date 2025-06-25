@@ -24,8 +24,8 @@
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 <hr>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,firebase,git,github)](https://skillicons.dev)
+<h3 align="left">Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,js,nodejs,mongodb,express,firebase,github,postman,figma,ai,ps)](https://skillicons.dev)
 
 <hr>
 
