@@ -1,12 +1,12 @@
 <!-- Banner Image -->
-<img src="https://i.postimg.cc/9fnhHqpK/gh-banner.png" alt="Omar Faruk Banner" style="width:100%;" />
+<img src="https://i.postimg.cc/dQXLjhcW/gh-profile-banner.png" alt="Omar Faruk Banner" style="width:100%;" />
 
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF005C&center=true&vCenter=true&width=800&height=30&lines=A+passionate+Front-end+Developer;MERN+Stack+Developer;Learning+NextJS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4adedd&center=true&vCenter=true&width=800&height=30&lines=A+passionate+Front-end+Developer;MERN+Stack+Developer;Learning+NextJS" alt="Typing SVG" />
   </a>
 </p>
 
