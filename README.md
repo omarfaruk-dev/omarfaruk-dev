@@ -32,25 +32,22 @@ I'm a passionate Frontend Developer from Bangladesh with a strong focus on the M
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk-dev&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="Omar Faruk's GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omarfaruk-dev&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</p>
+  <a href="http://www.github.com/omarfaruk-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk-dev&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="omarfaruk-dev's GitHub stats" />
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk-dev&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</p>
+  <a href="http://www.github.com/omarfaruk-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaruk-dev&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
 
+  <a href="https://github.com/omarfaruk-dev" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk-dev&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
 
----
+</div>
 
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarfaruk-dev&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 ---
 
