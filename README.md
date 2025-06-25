@@ -34,13 +34,13 @@ I'm a passionate Frontend Developer from Bangladesh with a strong focus on the M
 
 <div align="center">
 
-  <a href="http://www.github.com/omarfaruk-dev">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk-dev&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="omarfaruk-dev's GitHub stats" />
-  </a>
+  </p>
 
-  <a href="https://github.com/omarfaruk-dev" align="left">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk-dev&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
+  </p>
 
 </div>
 
