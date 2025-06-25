@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=30&lines=A+passionate+Front-end+Developer;MERN+Stack+Developer;Learning+NextJS" alt="Typing SVG" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk-dev" alt="omarfaruk-dev" /></a> </p>
 
