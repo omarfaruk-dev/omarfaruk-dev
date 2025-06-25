@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.postimg.cc/XNyV3xt8/banner.png" alt="Omar Faruk Banner" style="width:100%;" />
+<img src="https://i.postimg.cc/9fnhHqpK/gh-banner.png" alt="Omar Faruk Banner" style="width:100%;" />
 
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 
@@ -55,10 +55,8 @@ I'm a passionate Frontend Developer from Bangladesh with a strong focus on the M
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://codepen.io/omarfaruk-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/dev-omar-faruk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<a href="https://codepen.io/omarfaruk-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="omarfaruk-dev" height="30" width="40" /></a>
+<a href="https://twitter.com/omarfarukb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omarfarukb7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-omar-faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-omar-faruk" height="30" width="40" /></a>
+<a href="https://fb.com/omarfarukb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarfarukb7" height="30" width="40" /></a>
 </p>
