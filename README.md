@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.postimg.cc/RVKK37J1/omarfaruk-banner.png" alt="Omar Faruk Banner" style="width:100%;" />
+<img src="https://i.postimg.cc/gcBGMnNc/omarfaruk-dev-github.png" alt="Omar Faruk Banner" style="width:100%;" />
 
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 
