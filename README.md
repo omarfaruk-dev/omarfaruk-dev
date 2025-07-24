@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate Frontend Developer from Bangladesh with a strong focus on the MERN stack. I love building fast, responsive, and user-friendly web applications. Currently, I’m working on a full stack project called **ProFast**, a parcel management system. I believe in continuous learning and am currently diving deeper into **Next.js** and **Redux**.
+I'm a passionate Frontend Developer from Bangladesh with a strong focus on the MERN stack. I love building fast, responsive, and user-friendly web applications. Currently, I’m working on a full stack project called **ProFast**, a parcel management system. I believe in continuous learning and am currently diving deeper into **Next.js** and **TypeScript**.
 
 ---
 
