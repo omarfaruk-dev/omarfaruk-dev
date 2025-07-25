@@ -13,12 +13,16 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate Frontend Developer from Bangladesh with a strong focus on the MERN stack. I love building fast, responsive, and user-friendly web applications. Currently, I’m working on a full stack project called **ProFast**, a parcel management system. I believe in continuous learning and am currently diving deeper into **Next.js** and **TypeScript**.
+Hi, I'm Omar Faruk, a passionate Frontend Developer from Bangladesh, focused on the MERN stack (MongoDB, Express.js, React.js, Node.js). I build fast, responsive, and user-friendly web apps.
+
+I'm currently developing ProFast, a full-stack parcel management system, while diving deeper into **Next.js** and **TypeScript**.
+
+Always exploring new tech, I aim to deliver clean, scalable, and modern web solutions.
 
 ---
 
 - 🔭 I’m currently working on **ProFast (A Parcel Management Application)**
-- 🌱 I’m currently learning **Next.js** & **Redux**
+- 🌱 I’m currently learning **Next.js** & **TypeScript**
 - 👨‍💻 All of my projects are available at [github.com/omarfaruk-dev](https://github.com/omarfaruk-dev)
 - 📄 Know about my experiences: [Resume / Projects](https://github.com/omarfaruk-dev)
 - 📫 Reach me at: **omarfaruk.dev@gmail.com**
