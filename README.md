@@ -25,7 +25,7 @@ Always exploring new tech, I aim to deliver clean, scalable, and modern web solu
 - 🌱 I’m currently learning **Next.js** & **TypeScript**
 - 👨‍💻 All of my projects are available at [github.com/omarfaruk-dev](https://github.com/omarfaruk-dev)
 - 📄 Know about my experiences: [Projects](https://petify-us.web.app)
-- 📫 Reach me at: **omarfaruk.dev@gmail.com**
+- 📫 Reach me at: **omarfaruk.dev@gmail.com** 
 
 ---
 
