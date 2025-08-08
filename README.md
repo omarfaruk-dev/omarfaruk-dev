@@ -40,14 +40,19 @@ Always exploring new tech, I aim to deliver clean, scalable, and modern web solu
 <div align="center">
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk-dev&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk-dev&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk-dev&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="omarfaruk-dev's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=omarfaruk-dev&theme=highcontrast&hide_border=true&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&sideLabels=ffffff&dates=ffffff&stroke=14b8a6" alt="GitHub Streak" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk-dev&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true" alt="omarfaruk-dev's GitHub stats" />
   </p>
 
 </div>
+
 
 ---
 
