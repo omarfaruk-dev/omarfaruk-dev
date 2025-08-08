@@ -31,7 +31,7 @@ Always exploring new tech, I aim to deliver clean, scalable, and modern web solu
 ---
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,redux,postman,github,figma,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,postman,github,figma,ai,ps)](https://skillicons.dev)
 
 ---
 
@@ -57,7 +57,6 @@ Always exploring new tech, I aim to deliver clean, scalable, and modern web solu
   </p>
 
 </div>
-
 
 
 
