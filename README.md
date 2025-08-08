@@ -20,7 +20,7 @@ I'm currently developing ProFast, a full-stack parcel management system, while d
 Always exploring new tech, I aim to deliver clean, scalable, and modern web solutions.
 
 ---
-
+### 🚀 Current Activities
 - 🔭 I’m currently working on a full stack project **ProFast (A Parcel Management Application)**
 - 🌱 I’m currently learning **Next.js** & **TypeScript**
 - 👨‍💻 All of my projects are available at [github.com/omarfaruk-dev](https://github.com/omarfaruk-dev)
