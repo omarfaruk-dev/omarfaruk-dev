@@ -51,6 +51,10 @@ Always exploring new tech, I aim to deliver clean, scalable, and modern web solu
     </a>
   </p>
 
+  <p>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  </p>
+
   <!-- 📈 GitHub Stats -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk-dev&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true" alt="omarfaruk-dev's GitHub stats" />
