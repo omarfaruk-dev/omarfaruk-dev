@@ -63,11 +63,10 @@ Always exploring new tech, I aim to deliver clean, scalable, and modern web solu
   </a>
 </p>
 
-<p align="center">  
+ 
   <a href="https://github.com/omarfaruk-dev">
     <img src="https://streak-stats.demolab.com?user=omarfaruk-dev&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/omarfaruk-dev">
