@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.postimg.cc/gcBGMnNc/omarfaruk-dev-github.png" alt="Omar Faruk Banner" style="width:100%;" />
+<img src="https://i.postimg.cc/Dyxdj1dg/omarfaruk-dev-github.png" alt="Omar Faruk Banner" style="width:100%;" />
 
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 
@@ -24,8 +24,9 @@ Always exploring new tech, I aim to deliver clean, scalable, and modern web solu
 - 🔭 I’m currently working on a full stack project **ProFast (A Parcel Management Application)**
 - 🌱 I’m currently learning **Next.js** & **TypeScript**
 - 👨‍💻 All of my projects are available at [github.com/omarfaruk-dev](https://github.com/omarfaruk-dev)
-- 📄 Know about my experiences: [Projects](https://petify-us.web.app)
-- 📫 Reach me at: **omarfaruk.dev@gmail.com** 
+- 📄 My featured projects: [Projects](https://omarfaruk-dev.web.app)
+- 📫 Reach me at: **omarfaruk.dev@gmail.com**
+- 📞 Mobile / whatsapp: **+8801739460198**
 
 ---
 
