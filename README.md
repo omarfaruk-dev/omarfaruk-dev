@@ -56,24 +56,6 @@ Always exploring new tech, I aim to deliver clean, scalable, and modern web solu
     <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk-dev&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true" alt="omarfaruk-dev's GitHub stats" />
   </p>
 
- <!-- New-->
- <p align="center">
-  <a href="https://github.com/omarfaruk-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk-dev&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true" alt="omarfaruk-dev's GitHub stats" />
-  </a>
-</p>
-
- 
-  <a href="https://github.com/omarfaruk-dev">
-    <img src="https://streak-stats.demolab.com?user=omarfaruk-dev&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a>
-
-<p align="center">
-  <a href="https://github.com/omarfaruk-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk-dev&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</p>
-
 
 </div>
 
