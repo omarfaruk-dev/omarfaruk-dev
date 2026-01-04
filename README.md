@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-Hi, I'm Omar Faruk, a passionate Frontend Developer from Bangladesh, focused on the MERN stack (MongoDB, Express.js, React.js, Node.js). I build fast, responsive, and user-friendly web apps.
+Hi, I'm Omar Faruk, a passionate Frontend focused Full-Stack Developer from Bangladesh, focused on the MERN stack (MongoDB, Express.js, React.js, Node.js). I build fast, responsive, and user-friendly web apps.
 
 I'm currently developing a team project - RideX, a full-stack Ride Sharing Platform, while diving deeper into **Next.js** and **TypeScript**.
 
@@ -21,8 +21,8 @@ Always exploring new tech, I aim to deliver clean, scalable, and modern web solu
 
 ---
 ### 🚀 Current Activities
-- 🔭 I’m currently working on a full stack project **RideX (A Ride Sharing Platform)**
-- 🌱 I’m currently learning **Next.js** & **TypeScript**
+- 🔭 I’m currently working on a full stack project **School Management System**
+- 🌱 I’m currently learning **Next.js**, **PostgreSQL**, & **TypeScript**
 - 👨‍💻 All of my projects are available at [github.com/omarfaruk-dev](https://github.com/omarfaruk-dev)
 - 📄 My featured projects: [Projects](https://omarfaruk-dev.web.app)
 - 📫 Reach me at: **omarfaruk.dev@gmail.com**
