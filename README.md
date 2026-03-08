@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 
-<!-- Typing Animation -->
+<!-- Typing Animation --> 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4adedd&center=true&vCenter=true&width=800&height=30&lines=A+passionate+Front-end+Developer;MERN+Stack+Developer;Learning+NextJS" alt="Typing SVG" />
@@ -39,7 +39,7 @@ Always exploring new tech, I aim to deliver clean, scalable, and modern web solu
 
 <div align="center">
 
-  <!-- 🧠 Top Languages -->
+  <!-- 🧠 Top Languages --> 
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk-dev&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </p>
